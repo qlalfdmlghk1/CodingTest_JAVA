@@ -2,7 +2,7 @@ package BOJ;
 
 import java.util.Scanner;
 
-public class BOJ2018 {
+public class BOJ_2018 {
 
 	public static void main(String[] args) {
 //		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
